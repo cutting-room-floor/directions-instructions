@@ -1,35 +1,35 @@
 instructions:
-  1: 'Continue[ on <span class="mapbox-directions-way-name">{way_name}</span>]',
-  2: 'Bear right[ onto <span class="mapbox-directions-way-name">{way_name}</span>]',
-  3: 'Turn right[ onto <span class="mapbox-directions-way-name">{way_name}</span>]',
-  4: 'Make a sharp right[ onto <span class="mapbox-directions-way-name">{way_name}</span>]',
-  5: 'Make a U-turn[ onto <span class="mapbox-directions-way-name">{way_name}</span>]',
-  6: 'Make a sharp left[ onto <span class="mapbox-directions-way-name">{way_name}</span>]',
-  7: 'Turn left[ onto <span class="mapbox-directions-way-name">{way_name}</span>]',
-  8: 'Bear left[ onto <span class="mapbox-directions-way-name">{way_name}</span>]',
-  9: 'Reach waypoint[ and continue on <span class="mapbox-directions-way-name">{way_name}</span>]',
-  10: 'Head <span class="mapbox-directions-direction">{direction}</span>[ on <span class="mapbox-directions-way-name">{way_name}</span>]',
-  11: 'Enter the roundabout[ and take the exit onto <span class="mapbox-directions-way-name">{way_name}</span>]',
-  15: 'You have arrived at your destination'
+  1: "Continue[ on <span class='mapbox-directions-way-name'>{way_name}</span>]"
+  2: "Bear right[ onto <span class='mapbox-directions-way-name'>{way_name}</span>]"
+  3: "Turn right[ onto <span class='mapbox-directions-way-name'>{way_name}</span>]"
+  4: "Make a sharp right[ onto <span class='mapbox-directions-way-name'>{way_name}</span>]"
+  5: "Make a U-turn[ onto <span class='mapbox-directions-way-name'>{way_name}</span>]"
+  6: "Make a sharp left[ onto <span class='mapbox-directions-way-name'>{way_name}</span>]"
+  7: "Turn left[ onto <span class='mapbox-directions-way-name'>{way_name}</span>]"
+  8: "Bear left[ onto <span class='mapbox-directions-way-name'>{way_name}</span>]"
+  9: "Reach waypoint[ and continue on <span class='mapbox-directions-way-name'>{way_name}</span>]"
+  10: "Head <span class='mapbox-directions-direction'>{direction}</span>[ on <span class='mapbox-directions-way-name'>{way_name}</span>]"
+  11: "Enter the roundabout[ and take the exit onto <span class='mapbox-directions-way-name'>{way_name}</span>]"
+  15: "You have arrived at your destination"
 maneuvers:
-  1: 'continue'
-  2: 'bear right'
-  3: 'turn right'
-  4: 'sharp right'
-  5: 'u-turn'
-  6: 'sharp left'
-  7: 'turn left'
-  8: 'bear left'
-  9: 'waypoint'
-  10: 'depart'
-  11: 'enter roundabout'
-  15: 'arrive'
+  1: "continue"
+  2: "bear right"
+  3: "turn right"
+  4: "sharp right"
+  5: "u-turn"
+  6: "sharp left"
+  7: "turn left"
+  8: "bear left"
+  9: "waypoint"
+  10: "depart"
+  11: "enter roundabout"
+  15: "arrive"
 directions:
-  N: 'north'
-  NE: 'northeast'
-  E: 'east'
-  SE: 'southeast'
-  S: 'south'
-  SW: 'southwest'
-  W: 'west'
-  NW: 'northwest'
+  N: "north"
+  NE: "northeast"
+  E: "east"
+  SE: "southeast"
+  S: "south"
+  SW: "southwest"
+  W: "west"
+  NW: "northwest"
