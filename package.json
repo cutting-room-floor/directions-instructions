@@ -1,0 +1,17 @@
+{
+  "name": "instructions",
+  "version": "1.0.0",
+  "description": "generate sentences of instructions from driving directions",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "keywords": [
+    "driving",
+    "directions",
+    "translations",
+    "instructions"
+  ],
+  "author": "Tom MacWright",
+  "license": "ISC"
+}
