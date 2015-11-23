@@ -58,6 +58,14 @@ test('response', function(t) {
         assert.end();
     });
 
+    t.test('produces text instructions in spanish', function(assert) {
+        var actual = transform('mapbox.driving', fixture('simple.osrm'), {instructions: 'text', language: 'es'})[1];
+        assert.equal(
+            actual.routes[0].steps[0].maneuver.instruction,
+            'Hacia southwest en Market Street');
+        assert.end();
+    });
+
     t.test('produces HTML instructions', function(assert) {
         var actual = transform('mapbox.driving', fixture('simple.osrm'), {instructions: 'html'})[1];
         assert.equal(

@@ -1,7 +1,9 @@
 var polylineDecode = require('polyline').decode,
   strip = require('strip'),
   entityDecode = require('ent').decode,
-  strings = require('./english');
+  translations = require('./translations.json');
+
+translations.en = require('./english.json');
 
 function geoJSONFeature(geometry, properties) {
   return {
@@ -53,6 +55,8 @@ module.exports = function(profile, json, options) {
       error: json.status_message
     }];
   }
+
+  var strings = translations[options.language] || translations.en;
 
   function transformRoute(summary, polyline, instructions, name) {
     var geometry = polylineDecode(polyline, 6);
