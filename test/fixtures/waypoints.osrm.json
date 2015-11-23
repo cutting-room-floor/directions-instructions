@@ -1,0 +1,148 @@
+{
+    "status": 0,
+    "status_message": "Found route between points",
+    "route_geometry": "mo|ccB{ugpXPnGsGp@kDiA}NbA_Gl@mB~BoMtAoDsAqFd@ke@bEmB|Bwq@nG{Ff@mr@~Fcv@|GwIaAcDVqHl@qDXgIxD`IvAnD[VCnHq@`DYjIcEwIaAcDVqHl@qDXgIxDiMfA{JrAgLw@sGf@WD_F`@s@FaKtB}EutB}A`Ag^pD{d@zF_EcAwGO}Hl@`FbsB@b@",
+    "route_instructions": [
+        [
+            "10",
+            "Krausenstraße",
+            9,
+            0,
+            0,
+            "9m",
+            "W",
+            264,
+            1
+        ],
+        [
+            "3",
+            "Friedrichstraße",
+            599,
+            1,
+            0,
+            "599m",
+            "N",
+            354,
+            1
+        ],
+        [
+            "9",
+            "Friedrichstraße",
+            209,
+            22,
+            0,
+            "209m",
+            "S",
+            174,
+            1
+        ],
+        [
+            "9",
+            "Friedrichstraße",
+            37,
+            36,
+            0,
+            "37m",
+            "N",
+            355,
+            1
+        ],
+        [
+            "3",
+            "Behrenstraße",
+            128,
+            39,
+            0,
+            "128m",
+            "E",
+            84,
+            1
+        ],
+        [
+            "7",
+            "Charlottenstraße",
+            173,
+            40,
+            0,
+            "173m",
+            "NW",
+            337,
+            1
+        ],
+        [
+            "7",
+            "B 2;B 5",
+            127,
+            46,
+            0,
+            "127m",
+            "W",
+            264,
+            1
+        ],
+        [
+            "15",
+            "",
+            0,
+            48,
+            0,
+            "",
+            "N",
+            0,
+            1
+        ]
+    ],
+    "route_summary": {
+        "total_distance": 1285,
+        "total_time": 114,
+        "start_point": "Krausenstraße",
+        "end_point": "B 2;B 5"
+    },
+    "alternative_geometries": [],
+    "alternative_instructions": [],
+    "alternative_summaries": [],
+    "route_name": [
+        "Friedrichstraße",
+        "Charlottenstraße"
+    ],
+    "alternative_names": [
+        [
+            "",
+            ""
+        ]
+    ],
+    "via_points": [
+        [
+            52.509447,
+            13.39019
+        ],
+        [
+            52.514264,
+            13.389199
+        ],
+        [
+            52.515294,
+            13.389156
+        ],
+        [
+            52.51717,
+            13.388854
+        ]
+    ],
+    "via_indices": [
+        0,
+        22,
+        36,
+        48
+    ],
+    "alternative_indices": [],
+    "hint_data": {
+        "checksum": 1926849112,
+        "locations": [
+            "kg0AABcEAAALAAAALQAAAEQjxuvMzcg_BzshA25RzAA",
+            "Q5UEABQBAAAHAAAA____f27Oto2TKOw_2E0hA49NzAA",
+            "TJUEABQBAAAAAAAA____fz8zfII-yLg_3lEhA2RNzAA",
+            "_QgAABIAAAAAAAAA____fxpRWuDZ59k_MlkhAzZMzAA"
+        ]
+    }
+}

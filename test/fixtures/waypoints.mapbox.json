@@ -1,0 +1,408 @@
+{
+    "origin": {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.39019,
+                52.509447
+            ]
+        },
+        "properties": {
+            "name": "Krausenstraße"
+        }
+    },
+    "destination": {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.388854,
+                52.51717
+            ]
+        },
+        "properties": {
+            "name": "B 2;B 5"
+        }
+    },
+    "waypoints": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.389199,
+                    52.514264
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.389156,
+                    52.515294
+                ]
+            },
+            "properties": {}
+        }
+    ],
+    "routes": [
+        {
+            "distance": 1285,
+            "duration": 114,
+            "summary": "Friedrichstraße - Charlottenstraße",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        13.39019,
+                        52.509447
+                    ],
+                    [
+                        13.390054,
+                        52.509438
+                    ],
+                    [
+                        13.390029,
+                        52.509576
+                    ],
+                    [
+                        13.390066,
+                        52.509662
+                    ],
+                    [
+                        13.390032,
+                        52.509917
+                    ],
+                    [
+                        13.390009,
+                        52.510045
+                    ],
+                    [
+                        13.389945,
+                        52.5101
+                    ],
+                    [
+                        13.389902,
+                        52.510332
+                    ],
+                    [
+                        13.389944,
+                        52.51042
+                    ],
+                    [
+                        13.389925,
+                        52.510541
+                    ],
+                    [
+                        13.389827,
+                        52.511155
+                    ],
+                    [
+                        13.389764,
+                        52.51121
+                    ],
+                    [
+                        13.389628,
+                        52.512022
+                    ],
+                    [
+                        13.389608,
+                        52.512148
+                    ],
+                    [
+                        13.38948,
+                        52.512971
+                    ],
+                    [
+                        13.389337,
+                        52.513853
+                    ],
+                    [
+                        13.38937,
+                        52.514025
+                    ],
+                    [
+                        13.389358,
+                        52.514107
+                    ],
+                    [
+                        13.389335,
+                        52.51426
+                    ],
+                    [
+                        13.389322,
+                        52.514349
+                    ],
+                    [
+                        13.389229,
+                        52.514513
+                    ],
+                    [
+                        13.389185,
+                        52.514352
+                    ],
+                    [
+                        13.389199,
+                        52.514264
+                    ],
+                    [
+                        13.389201,
+                        52.514252
+                    ],
+                    [
+                        13.389226,
+                        52.5141
+                    ],
+                    [
+                        13.389239,
+                        52.514019
+                    ],
+                    [
+                        13.389337,
+                        52.513853
+                    ],
+                    [
+                        13.38937,
+                        52.514025
+                    ],
+                    [
+                        13.389358,
+                        52.514107
+                    ],
+                    [
+                        13.389335,
+                        52.51426
+                    ],
+                    [
+                        13.389322,
+                        52.514349
+                    ],
+                    [
+                        13.389229,
+                        52.514513
+                    ],
+                    [
+                        13.389193,
+                        52.514742
+                    ],
+                    [
+                        13.389151,
+                        52.514932
+                    ],
+                    [
+                        13.389179,
+                        52.515144
+                    ],
+                    [
+                        13.389159,
+                        52.515282
+                    ],
+                    [
+                        13.389156,
+                        52.515294
+                    ],
+                    [
+                        13.389139,
+                        52.515406
+                    ],
+                    [
+                        13.389135,
+                        52.515432
+                    ],
+                    [
+                        13.389076,
+                        52.515625
+                    ],
+                    [
+                        13.390959,
+                        52.515736
+                    ],
+                    [
+                        13.390926,
+                        52.515783
+                    ],
+                    [
+                        13.390837,
+                        52.516283
+                    ],
+                    [
+                        13.390711,
+                        52.516889
+                    ],
+                    [
+                        13.390745,
+                        52.516985
+                    ],
+                    [
+                        13.390753,
+                        52.517125
+                    ],
+                    [
+                        13.39073,
+                        52.517284
+                    ],
+                    [
+                        13.388872,
+                        52.517171
+                    ],
+                    [
+                        13.388854,
+                        52.51717
+                    ]
+                ]
+            },
+            "steps": [
+                {
+                    "maneuver": {
+                        "type": "depart",
+                        "location": {
+                            "type": "Point",
+                            "coordinates": [
+                                13.39019,
+                                52.509447
+                            ]
+                        },
+                        "instruction": "Head west on Krausenstraße"
+                    },
+                    "distance": 9,
+                    "duration": 0,
+                    "way_name": "Krausenstraße",
+                    "direction": "W",
+                    "heading": 264,
+                    "mode": "driving"
+                },
+                {
+                    "maneuver": {
+                        "type": "turn right",
+                        "location": {
+                            "type": "Point",
+                            "coordinates": [
+                                13.390054,
+                                52.509438
+                            ]
+                        },
+                        "instruction": "Turn right onto Friedrichstraße"
+                    },
+                    "distance": 599,
+                    "duration": 0,
+                    "way_name": "Friedrichstraße",
+                    "direction": "N",
+                    "heading": 354,
+                    "mode": "driving"
+                },
+                {
+                    "maneuver": {
+                        "type": "waypoint",
+                        "location": {
+                            "type": "Point",
+                            "coordinates": [
+                                13.389199,
+                                52.514264
+                            ]
+                        },
+                        "instruction": "Reach waypoint and continue on Friedrichstraße"
+                    },
+                    "distance": 209,
+                    "duration": 0,
+                    "way_name": "Friedrichstraße",
+                    "direction": "S",
+                    "heading": 174,
+                    "mode": "driving"
+                },
+                {
+                    "maneuver": {
+                        "type": "waypoint",
+                        "location": {
+                            "type": "Point",
+                            "coordinates": [
+                                13.389156,
+                                52.515294
+                            ]
+                        },
+                        "instruction": "Reach waypoint and continue on Friedrichstraße"
+                    },
+                    "distance": 37,
+                    "duration": 0,
+                    "way_name": "Friedrichstraße",
+                    "direction": "N",
+                    "heading": 355,
+                    "mode": "driving"
+                },
+                {
+                    "maneuver": {
+                        "type": "turn right",
+                        "location": {
+                            "type": "Point",
+                            "coordinates": [
+                                13.389076,
+                                52.515625
+                            ]
+                        },
+                        "instruction": "Turn right onto Behrenstraße"
+                    },
+                    "distance": 128,
+                    "duration": 0,
+                    "way_name": "Behrenstraße",
+                    "direction": "E",
+                    "heading": 84,
+                    "mode": "driving"
+                },
+                {
+                    "maneuver": {
+                        "type": "turn left",
+                        "location": {
+                            "type": "Point",
+                            "coordinates": [
+                                13.390959,
+                                52.515736
+                            ]
+                        },
+                        "instruction": "Turn left onto Charlottenstraße"
+                    },
+                    "distance": 173,
+                    "duration": 0,
+                    "way_name": "Charlottenstraße",
+                    "direction": "NW",
+                    "heading": 337,
+                    "mode": "driving"
+                },
+                {
+                    "maneuver": {
+                        "type": "turn left",
+                        "location": {
+                            "type": "Point",
+                            "coordinates": [
+                                13.39073,
+                                52.517284
+                            ]
+                        },
+                        "instruction": "Turn left onto B 2;B 5"
+                    },
+                    "distance": 127,
+                    "duration": 0,
+                    "way_name": "B 2;B 5",
+                    "direction": "W",
+                    "heading": 264,
+                    "mode": "driving"
+                },
+                {
+                    "maneuver": {
+                        "type": "arrive",
+                        "location": {
+                            "type": "Point",
+                            "coordinates": [
+                                13.388854,
+                                52.51717
+                            ]
+                        },
+                        "instruction": "You have arrived at your destination"
+                    }
+                }
+            ]
+        }
+    ]
+}
