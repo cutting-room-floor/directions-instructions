@@ -4,7 +4,7 @@
   "description": "generate sentences of instructions from driving directions",
   "main": "index.js",
   "scripts": {
-    "test": "tape test"
+    "test": "node index.js"
   },
   "keywords": [
     "driving",
@@ -14,13 +14,6 @@
   ],
   "author": "Tom MacWright",
   "license": "ISC",
-  "dependencies": {
-    "ent": "^2.2.0",
-    "extend": "^3.0.0",
-    "polyline": "^0.2.0",
-    "strip": "0.0.7",
-    "tape": "^4.2.2"
-  },
   "devDependencies": {
     "request": "^2.67.0"
   }
