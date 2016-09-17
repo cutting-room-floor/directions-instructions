@@ -1,3 +1,5 @@
+**STATUS: backburner. This will eventually be in production, but is not yet used anywhere, since there are more pressing issues to tackle for directions.**
+
 # directions-instructions
 
 This module contains all of the translatable strings in
